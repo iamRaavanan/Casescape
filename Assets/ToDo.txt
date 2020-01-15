@@ -1,0 +1,13 @@
+=> Turn based on the direction  (Face to be in the direction of movement)
+
+=> Camera angle to be changed => Example: FIFA 
+
+=> Destroy enemies if enemycount is reached more than 10 
+
+November:
+
+=> Particle Effect for Ghost Spawn.
+
+=> Powerup Effects
+
+=> Tutorial Include
